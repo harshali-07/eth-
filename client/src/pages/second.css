@@ -1,0 +1,59 @@
+
+.outerdiv{
+    height: 1000px;
+    width: 1300px;
+    background-color:  rgb(178, 179, 178);
+}
+
+.top{
+    height: 200px;
+    width: 1500px;
+    background-color: rgb(141, 140, 141);
+}
+
+.topname{
+    margin-left: 450px;
+}
+.innerdiv{
+    margin-top: 30px;
+}
+.wrapper {
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
+.wrapper > * {
+  padding: 1em;
+}
+ 
+  form p {
+    float: left;
+    width: 49%;
+  }
+  form p:not(:nth-child(2n)) {
+    margin-right: 2%;
+  }
+  form p:last-child {
+    clear: both;
+    width: 75%;
+  }
+  form label {
+    display: block;
+  }
+  .contain {
+    margin-top: 20px;
+    margin-left: 20px;
+    max-width: 800px;
+    padding: 2px;
+  }
+ 
+  input {
+    width: 50%;
+    border:1px solid #000;
+    
+  }
+.gt{
+  margin-left: 50px;
+}
+  
+input{
+  padding: 6px;
+}

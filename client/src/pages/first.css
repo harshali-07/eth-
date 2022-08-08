@@ -1,0 +1,45 @@
+.maindiv{
+    background-color: rgb(249, 249, 249);
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.header {
+    margin-left: 35%;
+    height: 4%;
+    width: 30%;
+    font-size: 18px;
+    text-align: center;
+    text-decoration-line: underline;
+    background: rgb(210, 238, 238);
+    color: rgb(189, 22, 147);
+    line-height: 150%;
+    border-radius: 3px;
+    box-shadow: 0 2px 5px 1px rgba(0,0,0,0.2); }
+    
+
+    .hiw{
+      margin-left: 530px;
+      margin-top: 100px;
+      height: 50px;
+    }
+
+  .t1{
+    margin-left: 120px;
+    text-align: left;
+    font-size: 20px;
+  }  
+  .bt{
+    background: rgb(231, 83, 83);
+    margin-left: 150px;
+  
+  }
+  .bt:hover {
+    background: rgb(243, 100, 195);
+  }
+  
+
+
+  
